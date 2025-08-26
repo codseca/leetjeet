@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/codseca/leetjeet/tree/master/0596-classes-with-at-least-5-students) |
 | [1664-find-users-with-valid-e-mails](https://github.com/codseca/leetjeet/tree/master/1664-find-users-with-valid-e-mails) |
 | [1877-find-followers-count](https://github.com/codseca/leetjeet/tree/master/1877-find-followers-count) |
 ## Math
