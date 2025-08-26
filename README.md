@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/codseca/leetjeet/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/codseca/leetjeet/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
