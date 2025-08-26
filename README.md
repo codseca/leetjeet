@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1664-find-users-with-valid-e-mails](https://github.com/codseca/leetjeet/tree/master/1664-find-users-with-valid-e-mails) |
+| [1877-find-followers-count](https://github.com/codseca/leetjeet/tree/master/1877-find-followers-count) |
 ## Math
 |  |
 | ------- |
