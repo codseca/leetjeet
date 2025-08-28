@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/codseca/leetjeet/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/codseca/leetjeet/tree/master/1664-find-users-with-valid-e-mails) |
 | [1877-find-followers-count](https://github.com/codseca/leetjeet/tree/master/1877-find-followers-count) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/codseca/leetjeet/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
 | ------- |
