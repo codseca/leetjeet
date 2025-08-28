@@ -24,15 +24,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/codseca/leetjeet/tree/master/0058-length-of-last-word) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Quickselect
 |  |
 | ------- |
