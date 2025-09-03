@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/codseca/leetjeet/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/codseca/leetjeet/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/codseca/leetjeet/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1390-average-selling-price](https://github.com/codseca/leetjeet/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/codseca/leetjeet/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/codseca/leetjeet/tree/master/1664-find-users-with-valid-e-mails) |
 | [1801-average-time-of-process-per-machine](https://github.com/codseca/leetjeet/tree/master/1801-average-time-of-process-per-machine) |
