@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/codseca/leetjeet/tree/master/0292-nim-game) |
+| [2383-add-two-integers](https://github.com/codseca/leetjeet/tree/master/2383-add-two-integers) |
 ## Brainteaser
 |  |
 | ------- |
