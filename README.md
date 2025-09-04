@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/codseca/leetjeet/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/codseca/leetjeet/tree/master/0058-length-of-last-word) |
+| [0742-to-lower-case](https://github.com/codseca/leetjeet/tree/master/0742-to-lower-case) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Array
 |  |
