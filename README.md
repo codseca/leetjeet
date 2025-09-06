@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/codseca/leetjeet/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/codseca/leetjeet/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/codseca/leetjeet/tree/master/1664-find-users-with-valid-e-mails) |
+| [1670-patients-with-a-condition](https://github.com/codseca/leetjeet/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/codseca/leetjeet/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/codseca/leetjeet/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/codseca/leetjeet/tree/master/1877-find-followers-count) |
