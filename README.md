@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/codseca/leetjeet/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/codseca/leetjeet/tree/master/0875-koko-eating-bananas) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/codseca/leetjeet/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/codseca/leetjeet/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
