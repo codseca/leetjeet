@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/codseca/leetjeet/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/codseca/leetjeet/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codseca/leetjeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/codseca/leetjeet/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -146,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/codseca/leetjeet/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
