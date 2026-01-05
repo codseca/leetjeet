@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/codseca/leetjeet/tree/master/0292-nim-game) |
 | [2383-add-two-integers](https://github.com/codseca/leetjeet/tree/master/2383-add-two-integers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codseca/leetjeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/codseca/leetjeet/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
