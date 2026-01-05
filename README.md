@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/codseca/leetjeet/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/codseca/leetjeet/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/codseca/leetjeet/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/codseca/leetjeet/tree/master/0742-to-lower-case) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Array
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/codseca/leetjeet/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Divide and Conquer
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/codseca/leetjeet/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Quickselect
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/codseca/leetjeet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
