@@ -9,12 +9,12 @@ class Solution(object):
         end=max(piles)
         ans=end
         while(start<=end):
-            mid=start+(end-start)//2
+            mid=start+(end-start)/2
 
             hours = 0
 
             for pile in piles:
-                hours += (pile + mid - 1) // mid
+                hours += (pile+mid-1)//mid
 
             if hours <= h:
                 ans = mid
