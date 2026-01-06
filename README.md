@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/codseca/leetjeet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/codseca/leetjeet/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/codseca/leetjeet/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/codseca/leetjeet/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codseca/leetjeet/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/codseca/leetjeet/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 ## Trie
 |  |
@@ -160,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codseca/leetjeet/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codseca/leetjeet/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codseca/leetjeet/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codseca/leetjeet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
