@@ -25,11 +25,15 @@ class Solution(object):
         left_max[0]=height[0]
         right_max[n-1]=height[n-1]
 
-        for i in range(1,n):
+        i=1
+        j=n-2
+        while(i<n and j>=0):
             left_max[i]=max(left_max[i-1],height[i])
 
-        for i in range(n-2,-1,-1):
-            right_max[i]=max(height[i],right_max[i+1])
+        
+            right_max[j]=max(height[j],right_max[j+1])
+            i=i+1
+            j=j-1
         
         tot_water=0
 
