@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codseca/leetjeet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/codseca/leetjeet/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/codseca/leetjeet/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codseca/leetjeet/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 ## Trie
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/codseca/leetjeet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/codseca/leetjeet/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
