@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/codseca/leetjeet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/codseca/leetjeet/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/codseca/leetjeet/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/codseca/leetjeet/tree/master/0994-rotting-oranges) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/codseca/leetjeet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/codseca/leetjeet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/codseca/leetjeet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/codseca/leetjeet/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/codseca/leetjeet/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/codseca/leetjeet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/codseca/leetjeet/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/codseca/leetjeet/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
