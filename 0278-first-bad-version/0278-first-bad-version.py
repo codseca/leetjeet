@@ -12,7 +12,7 @@ class Solution(object):
         i = 1
         j = n
         while (i<j):
-            mid = (i+j)//2
+            mid = i+(j-i)/2
 
             if isBadVersion(mid):
                 j = mid
