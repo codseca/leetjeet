@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
 | [0149-max-points-on-a-line](https://github.com/codseca/leetjeet/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/codseca/leetjeet/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/codseca/leetjeet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codseca/leetjeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codseca/leetjeet/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/codseca/leetjeet/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/codseca/leetjeet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codseca/leetjeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
@@ -112,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codseca/leetjeet/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/codseca/leetjeet/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codseca/leetjeet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codseca/leetjeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codseca/leetjeet/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codseca/leetjeet/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
