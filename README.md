@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/codseca/leetjeet/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/codseca/leetjeet/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/codseca/leetjeet/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/codseca/leetjeet/tree/master/0292-nim-game) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/codseca/leetjeet/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/codseca/leetjeet/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/codseca/leetjeet/tree/master/0074-search-a-2d-matrix) |
+| [0149-max-points-on-a-line](https://github.com/codseca/leetjeet/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/codseca/leetjeet/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/codseca/leetjeet/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codseca/leetjeet/tree/master/0217-contains-duplicate) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codseca/leetjeet/tree/master/0001-two-sum) |
+| [0149-max-points-on-a-line](https://github.com/codseca/leetjeet/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/codseca/leetjeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/codseca/leetjeet/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/codseca/leetjeet/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/codseca/leetjeet/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
