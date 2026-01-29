@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/codseca/leetjeet/tree/master/0292-nim-game) |
 | [2383-add-two-integers](https://github.com/codseca/leetjeet/tree/master/2383-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/codseca/leetjeet/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/codseca/leetjeet/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/codseca/leetjeet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/codseca/leetjeet/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/codseca/leetjeet/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codseca/leetjeet/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/codseca/leetjeet/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/codseca/leetjeet/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codseca/leetjeet/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/codseca/leetjeet/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Quickselect
 |  |
 | ------- |
