@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codseca/leetjeet/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/codseca/leetjeet/tree/master/0292-nim-game) |
 | [2383-add-two-integers](https://github.com/codseca/leetjeet/tree/master/2383-add-two-integers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/codseca/leetjeet/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Brainteaser
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/codseca/leetjeet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/codseca/leetjeet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/codseca/leetjeet/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/codseca/leetjeet/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
